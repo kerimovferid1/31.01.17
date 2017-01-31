@@ -1,0 +1,9 @@
+Her hansi web seifesin yaratmaq ucun Server side ve Client side anlayishlarindan istifade olunur.
+
+Client side dedikde - web brauzerin gorunen hissedi bu ec bir emeliyyat yerine yetirmir.
+Burada html,css,javascript kimi dillerden istifade olunur.Burada her hansi servere sorgu gondermekden 
+sohbet gede bilmez.
+
+
+Server side -Bura ec bir wekilde gorunmur. Bele desek web broauzerin melumatlari saxlanir kibu cda gorunmur.
+PHP, Python, C # ,Javascript (NodeJS),  istifade olunur.Bu da HTTP ye cavab veren proqramlardir.  
